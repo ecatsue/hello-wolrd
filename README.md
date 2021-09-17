@@ -1,2 +1,4 @@
+
 # hello-wolrd
-code used to return a greeting
+
+Hi there! My name is Eustace Luputa, a 3rd year I.T. Enginnerring student at the University of Lusaka.
